@@ -15,4 +15,4 @@ In this project we have helped Seth and Tom submit the election audit results to
 
 ## Summary
 
-From our results, 
+From our results, we were able to accurately calculate several metrics and provide visual representation of these elections. Fortunately, this can be done once again with the same script. We suggest that the election commission reuse this script and add modifications when needed, for other elections. This script can be modified for elections that want to gather more information on counties that vote less. This would be benificial to identify where the election commission can spend more of there time encouraging people to vote. This script can also be modified to identify the amount of votes for each candidate in each state. This is to provide further detailed information on the candidates popularity per county. 
